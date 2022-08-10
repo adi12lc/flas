@@ -1,2 +1,2 @@
 print("kl")
-print("klr")
+print("klr6")
